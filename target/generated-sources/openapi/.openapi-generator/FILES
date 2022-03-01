@@ -1,0 +1,11 @@
+.openapi-generator-ignore
+README.md
+pom.xml
+src/main/java/othmen/test/openapigenerator/springdoc/demo/app4/api/ApiApi.java
+src/main/java/othmen/test/openapigenerator/springdoc/demo/app4/api/ApiUtil.java
+src/main/java/othmen/test/openapigenerator/springdoc/demo/app4/api/CoffeesApi.java
+src/main/java/othmen/test/openapigenerator/springdoc/demo/app4/api/EmployeesApi.java
+src/main/java/othmen/test/openapigenerator/springdoc/demo/app4/model/Coffee.java
+src/main/java/othmen/test/openapigenerator/springdoc/demo/app4/model/CoffeeOrder.java
+src/main/java/othmen/test/openapigenerator/springdoc/demo/app4/model/Employee.java
+src/main/java/othmen/test/openapigenerator/springdoc/demo/app4/model/User.java
